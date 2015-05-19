@@ -1,0 +1,1 @@
+Direktive for using JQ Datatables in Angular
